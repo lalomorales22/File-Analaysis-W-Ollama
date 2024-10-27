@@ -1,4 +1,7 @@
-File Structure Analyzer
+#File Structure Analyzer
+
+![Screenshot 2024-10-26 at 5 17 58 PM](https://github.com/user-attachments/assets/864315b1-8320-4a94-9ec5-9baeda97610c)
+
 
 File Structure Analyzer is a GUI application built with Python's Tkinter library. It allows users to analyze file structures, view file details, and perform AI-based analysis on code files using models from an AI server.
 
