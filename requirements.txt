@@ -1,0 +1,5 @@
+tkinter
+requests
+pygments
+tkhtmlview
+configparser
